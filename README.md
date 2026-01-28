@@ -2,7 +2,7 @@ Guia de Estudos Ativos CPA-10 — NotebookLM
 Este projeto utiliza o NotebookLM como uma ferramenta de Inteligência Artificial Generativa aplicada à preparação para a certificação CPA-10 (ANBIMA). O objetivo é organizar, sintetizar e explicar o conteúdo regulatório e técnico do Sistema Financeiro Nacional. Todo o conteúdo é processado a partir de fontes oficiais, garantindo precisão técnica para o exame e para a prática profissional.
 
 O NotebookLM desenvolvido neste projeto pode ser acessado aqui:
-[Link do seu Notebook]
+(https://notebooklm.google.com/notebook/f64ef93f-0eac-46a5-9358-3d75a4846963)
 
 Objetivo do Projeto
 Criar um ecossistema de aprendizagem ativa capaz de:
